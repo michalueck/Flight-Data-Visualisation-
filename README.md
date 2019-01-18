@@ -54,20 +54,33 @@ Feedback:
 
 Feedback Section: 
 * What do you notice in the visualization?
+
 Marina:  Data is available in different relations and views. Bar charts are more convenient to look at. The interactive part, especially the airport view was nice.
+
 Jocelyn: From the visualizations, I can follow a pattern, which appears to be repeated, or at least similar,throughout the graphics. It makes the relationship between 'flights and cancellation' seem more vivid and understandable. I also see how this relationship and the reasons  are clearly portrayed through the year. From the first bar chart is is clear some carriers cancel more than others.
+
 * What questions do you have about the data?
+
 Marina: I would like to know more about the following years unitl 2018 as flights got more and more. The relationship to the customer satisfaction would be interesting to know. Is the airline healthiness related to the cancellation rate? (f.e. is bancrupcy somehow related to the cancellation rate).
+
 Jocelyn: I, too, expected a rise in cancellation in the winter months, but the 'weather related' cancellation rises in summer show that the summer weather can produce extreme conditions unsuitable for flying. I wonder too, if airlines are cancelling for the same reasons at the same time, though this is undoubtedly so in  weather related issues. I have questions arising that are off-shoots from the data, this makes me wonder more deeply why certain non weather-related cancellations are happening in similar peaks and troughs
+
 * What relationships do you notice?
+
 Marina: The relation between the first two graphs is unclear. Later on the story is developing along the data and I was able to follow the analysis path
+
 Jocelyn: The trends of troughs and peaks in  flights,  cancellations and reasons for cancellations seem to follow a consistent pattern with each other. There is a clear relationship with weather related issues which is understandable. There is an interesting relationship between carrier and cancellation, if I were in charge of booking tickets this would be a useful representation, but I would also want to check why the differences - that is, I would like to see if some airlines cancelled more often for one reason than another -  when at the same time of year.
+
 * What do you think is the main takeaway from this visualization?
+
 Marina: The interactive (Tableau) card was my personal favourite. This will be something I remember even next week J
+
 Jocelyn: There is a clear relationship between flights and peoples' activities, eg holiday time. Also, as previously stated a clear relationship with weather. Winter is not the best time to fly,  spring and autumn are better than high summer. 
  
 * Is there something you don’t understand in the graphic?
+
 Marina: n/a all graphs are well labled, the view on the details was much appreciated in the html graphs
+
 Jocelyn: The graphics are a good explanation of the data. However, because I have no knowledge of Data Analysis I tend to think 'of track' and have been curious about 'reasons' for some of the data. For example, I am curious as to whether the cancellation variation between carriers is due to specific regional variation. It could be that more northerly focused airlines have more weather- related cancellations in winter and more southerly focused ones in late summer (hurricane season?). This however, has not been part of the study and collected data, it is just my curiosity, which has been triggered by looking at the data and graphics. Michaela has enlightened me on some of these issues and also confirmed that some of my querries are outside the sphere of the data provided.
 
 Ressources:
